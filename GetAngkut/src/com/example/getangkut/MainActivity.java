@@ -25,6 +25,7 @@ public class MainActivity extends Activity implements NavigationDrawerFragment.N
 	 * navigation drawer.
 	 */
 	private NavigationDrawerFragment mNavigationDrawerFragment;
+	agfahgfjhagdfgkadgfkhgakdfakdg
 
 	/**
 	 * Used to store the last screen title. For use in
