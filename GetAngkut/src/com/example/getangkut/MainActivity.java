@@ -26,6 +26,10 @@ public class MainActivity extends Activity implements NavigationDrawerFragment.N
 	 */
 	private NavigationDrawerFragment mNavigationDrawerFragment;
 	agfahgfjhagdfgkadgfkhgakdfakdg
+	
+	ahahahahahahahahahahahahahahahahah
+	
+	diganti 2:28PM 22/12/15
 
 	/**
 	 * Used to store the last screen title. For use in
