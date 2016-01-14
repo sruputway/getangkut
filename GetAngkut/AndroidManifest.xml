@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 lokal :dia tas
 
 <?xml version="1.0" encoding="utf-8"?>
+=======
+server : di bawah
+
+<?xml version="1.0" encoding="utf-8"?>
+>>>>>>> aa92e451411e083cb411d060de6f1faf3c97339d
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.getangkut"
     android:versionCode="1"
@@ -29,4 +35,4 @@ lokal :dia tas
 </manifest>
 test presentasi
 
-11111111111111
+buat v.1
