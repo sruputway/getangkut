@@ -8,5 +8,10 @@
 	<classpathentry kind="output" path="bin/classes"/>
 </classpath>
 
+<<<<<<< HEAD
 buat v.0.1
 local: test push
+=======
+server: buat tester
+server: tambahan setelah lokal fetching
+>>>>>>> remotes/getangkut/master
